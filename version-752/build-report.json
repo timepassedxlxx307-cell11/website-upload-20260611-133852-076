@@ -1,0 +1,21 @@
+{
+  "parsed_movie_count": 2000,
+  "detail_page_count": 2000,
+  "html_page_count": 2017,
+  "category_coverage_count": 2000,
+  "category_card_count": 2000,
+  "baidu_script_pages": 2017,
+  "jpg_files_in_output": 0,
+  "category_counts": {
+    "热播频道": 200,
+    "电影频道": 200,
+    "剧集频道": 200,
+    "综艺纪录": 200,
+    "动作冒险": 200,
+    "爱情家庭": 200,
+    "喜剧治愈": 200,
+    "悬疑惊悚": 200,
+    "动漫少儿": 200,
+    "高分精选": 200
+  }
+}
